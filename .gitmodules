@@ -1,0 +1,3 @@
+[submodule "lec1-remote"]
+	path = lec1-remote
+	url = git@github.com:nkrishnan19/lec1-remote.git
